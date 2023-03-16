@@ -2,7 +2,7 @@ package com.example.credentialmanager.services.impl;
 
 import com.example.credentialmanager.model.Details;
 import com.example.credentialmanager.services.PasswordManagerServices;
-import com.example.credentialmanager.services.PasswordRepository;
+import com.example.credentialmanager.repository.PasswordRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

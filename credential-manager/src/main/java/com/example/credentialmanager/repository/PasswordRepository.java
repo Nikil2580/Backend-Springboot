@@ -1,4 +1,4 @@
-package com.example.credentialmanager.services;
+package com.example.credentialmanager.repository;
 
 import com.example.credentialmanager.model.Details;
 import org.springframework.data.repository.CrudRepository;
